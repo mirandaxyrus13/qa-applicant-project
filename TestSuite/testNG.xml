@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="GoReact">
+	<test name="GoReactRegression">
+		<classes>
+			<class name="com.framework.testrunner.GoReactInstructorRegression" />
+			<class name="com.framework.testrunner.GoReactAccountLoginRegression" />
+		</classes>
+	</test>
+</suite> 

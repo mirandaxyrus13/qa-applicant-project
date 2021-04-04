@@ -1,0 +1,204 @@
+2021-04-04 11:41:21 - [INFO] Initializing Chrome Profile
+2021-04-04 11:41:24 - [PASSED] Browser Initialized
+2021-04-04 11:41:25 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:41:27 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:41:32 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:41:32 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:41:33 - [PASSED] Create Account Button is clicked
+2021-04-04 11:41:33 - [PASSED] Instructor Button is clicked
+2021-04-04 11:41:34 - [PASSED] First Name TextBox is populated with 'TestFName'
+2021-04-04 11:41:34 - [PASSED] Last Name TextBox is populated with 'TestLName'
+2021-04-04 11:41:35 - [PASSED] Phone Number TextBox is populated with '1234567'
+2021-04-04 11:41:35 - [PASSED] Email TextBox is populated with 'sample101@email.com10013'
+2021-04-04 11:41:36 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:41:36 - [PASSED] Confirm Password TextBox is populated with '******'
+2021-04-04 11:41:47 - [PASSED] Terms and Privacy Policy CheckBox value is set to true
+2021-04-04 11:41:47 - [PASSED] Continue Button is clicked
+2021-04-04 11:41:48 - [PASSED] I'm using GoReact at a... is clicked
+2021-04-04 11:41:48 - [PASSED] Instructor Type is clicked
+2021-04-04 11:41:49 - [PASSED] Institution Name TextBox is populated with 'CalStateTEACH'
+2021-04-04 11:41:50 - [PASSED] Institution Name: CalStateTEACH is clicked
+2021-04-04 11:41:50 - [PASSED] Your Role is clicked
+2021-04-04 11:41:50 - [PASSED] Your Role: Instructor is clicked
+2021-04-04 11:41:51 - [PASSED] Course Type is clicked
+2021-04-04 11:41:51 - [PASSED] Course TypePerforming Arts is clicked
+2021-04-04 11:41:52 - [PASSED] Course Format is clicked
+2021-04-04 11:41:52 - [PASSED] Course Format is clicked
+2021-04-04 11:41:52 - [PASSED] Continue Button is clicked
+2021-04-04 11:41:56 - [PASSED] Welcome to GoReact! - Higher Education Institution is displayed
+2021-04-04 11:41:56 - [PASSED] User Navigation Button is clicked
+2021-04-04 11:41:57 - [PASSED] User Navigation - Log Out Link is clicked
+2021-04-04 11:41:59 - [PASSED] Login Form is displayed
+2021-04-04 11:41:59 - [PASSED] Email TextBox is displayed
+2021-04-04 11:41:59 - [PASSED] Password TextBox is displayed
+2021-04-04 11:42:00 - chrome instance closed.
+2021-04-04 11:42:00 - [INFO] Initializing Chrome Profile
+2021-04-04 11:42:03 - [PASSED] Browser Initialized
+2021-04-04 11:42:03 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:42:04 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:42:08 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:42:08 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:42:08 - [PASSED] Create Account Button is clicked
+2021-04-04 11:42:09 - [PASSED] Instructor Button is clicked
+2021-04-04 11:42:09 - [PASSED] First Name TextBox is populated with 'TestFName'
+2021-04-04 11:42:10 - [PASSED] Last Name TextBox is populated with 'TestLName'
+2021-04-04 11:42:10 - [PASSED] Phone Number TextBox is populated with '1234567'
+2021-04-04 11:42:10 - [PASSED] Email TextBox is populated with 'sample101@email.com10014'
+2021-04-04 11:42:11 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:42:11 - [PASSED] Confirm Password TextBox is populated with '******'
+2021-04-04 11:42:22 - [PASSED] Terms and Privacy Policy CheckBox value is set to true
+2021-04-04 11:42:22 - [PASSED] Continue Button is clicked
+2021-04-04 11:42:23 - [PASSED] I'm using GoReact at a... is clicked
+2021-04-04 11:42:23 - [PASSED] Instructor Type is clicked
+2021-04-04 11:42:24 - [PASSED] Institution Name TextBox is populated with 'CATIE Center'
+2021-04-04 11:42:25 - [PASSED] Institution Name: CATIE Center is clicked
+2021-04-04 11:42:25 - [PASSED] Your Role is clicked
+2021-04-04 11:42:25 - [PASSED] Your Role: Educator is clicked
+2021-04-04 11:42:26 - [PASSED] Course Type is clicked
+2021-04-04 11:42:26 - [PASSED] Training TypeInterviewing is clicked
+2021-04-04 11:42:27 - [PASSED] Course Format is clicked
+2021-04-04 11:42:27 - [PASSED] Course Format is clicked
+2021-04-04 11:42:27 - [PASSED] Continue Button is clicked
+2021-04-04 11:42:31 - [PASSED] Welcome to GoReact! - K-12 Education Institution is displayed
+2021-04-04 11:42:32 - [PASSED] User Navigation Button is clicked
+2021-04-04 11:42:32 - [PASSED] User Navigation - Log Out Link is clicked
+2021-04-04 11:42:34 - [PASSED] Login Form is displayed
+2021-04-04 11:42:34 - [PASSED] Email TextBox is displayed
+2021-04-04 11:42:34 - [PASSED] Password TextBox is displayed
+2021-04-04 11:42:35 - chrome instance closed.
+2021-04-04 11:42:35 - [INFO] Initializing Chrome Profile
+2021-04-04 11:42:38 - [PASSED] Browser Initialized
+2021-04-04 11:42:38 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:42:38 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:42:41 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:42:42 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:42:42 - [PASSED] Create Account Button is clicked
+2021-04-04 11:42:43 - [PASSED] Instructor Button is clicked
+2021-04-04 11:42:43 - [PASSED] First Name TextBox is populated with 'TestFName'
+2021-04-04 11:42:43 - [PASSED] Last Name TextBox is populated with 'TestLName'
+2021-04-04 11:42:44 - [PASSED] Phone Number TextBox is populated with '1234567'
+2021-04-04 11:42:44 - [PASSED] Email TextBox is populated with 'sample101@email.com10015'
+2021-04-04 11:42:45 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:42:45 - [PASSED] Confirm Password TextBox is populated with '******'
+2021-04-04 11:42:56 - [PASSED] Terms and Privacy Policy CheckBox value is set to true
+2021-04-04 11:42:56 - [PASSED] Continue Button is clicked
+2021-04-04 11:42:56 - [PASSED] I'm using GoReact at a... is clicked
+2021-04-04 11:42:57 - [PASSED] Instructor Type is clicked
+2021-04-04 11:42:58 - [PASSED] Organization Name TextBox is populated with 'Camber College'
+2021-04-04 11:42:58 - [PASSED] Organization Name: Camber College is clicked
+2021-04-04 11:42:58 - [PASSED] Your Role is clicked
+2021-04-04 11:42:59 - [PASSED] Your Role: Human Resources is clicked
+2021-04-04 11:42:59 - [PASSED] Course Type is clicked
+2021-04-04 11:42:59 - [PASSED] Training TypeMedia Production is clicked
+2021-04-04 11:43:00 - [PASSED] Course Format is clicked
+2021-04-04 11:43:00 - [PASSED] Course Format is clicked
+2021-04-04 11:43:01 - [PASSED] Continue Button is clicked
+2021-04-04 11:43:05 - [PASSED] Welcome to GoReact! - Professional Organization is displayed
+2021-04-04 11:43:05 - [PASSED] User Navigation Button is clicked
+2021-04-04 11:43:06 - [PASSED] User Navigation - Log Out Link is clicked
+2021-04-04 11:43:08 - [PASSED] Login Form is displayed
+2021-04-04 11:43:08 - [PASSED] Email TextBox is displayed
+2021-04-04 11:43:09 - [PASSED] Password TextBox is displayed
+2021-04-04 11:43:09 - chrome instance closed.
+2021-04-04 11:43:09 - [INFO] Initializing Chrome Profile
+2021-04-04 11:43:11 - [PASSED] Browser Initialized
+2021-04-04 11:43:11 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:43:12 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:43:15 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:43:15 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:43:16 - [PASSED] Create Account Button is clicked
+2021-04-04 11:43:16 - [PASSED] Instructor Button is clicked
+2021-04-04 11:43:17 - [PASSED] First Name TextBox is populated with 'TestFName'
+2021-04-04 11:43:17 - [PASSED] Last Name TextBox is populated with 'TestLName'
+2021-04-04 11:43:17 - [PASSED] Phone Number TextBox is populated with '1234567'
+2021-04-04 11:43:18 - [PASSED] Email TextBox is populated with 'sample101@email.com10016'
+2021-04-04 11:43:18 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:43:19 - [PASSED] Confirm Password TextBox is populated with '******'
+2021-04-04 11:43:29 - [PASSED] Terms and Privacy Policy CheckBox value is set to true
+2021-04-04 11:43:30 - [PASSED] Continue Button is clicked
+2021-04-04 11:43:30 - [PASSED] I'm using GoReact at a... is clicked
+2021-04-04 11:43:31 - [PASSED] Instructor Type is clicked
+2021-04-04 11:43:31 - [PASSED] Course Type is clicked
+2021-04-04 11:43:32 - [PASSED] Training TypeLegal/Law Enforcement is clicked
+2021-04-04 11:43:32 - [PASSED] Course Format is clicked
+2021-04-04 11:43:32 - [PASSED] Course Format is clicked
+2021-04-04 11:43:33 - [PASSED] Continue Button is clicked
+2021-04-04 11:43:37 - [PASSED] Welcome to GoReact! - Personal Use is displayed
+2021-04-04 11:43:37 - [PASSED] User Navigation Button is clicked
+2021-04-04 11:43:37 - [PASSED] User Navigation - Log Out Link is clicked
+2021-04-04 11:43:39 - [PASSED] Login Form is displayed
+2021-04-04 11:43:39 - [PASSED] Email TextBox is displayed
+2021-04-04 11:43:39 - [PASSED] Password TextBox is displayed
+2021-04-04 11:43:40 - chrome instance closed.
+2021-04-04 11:43:40 - [INFO] Initializing Chrome Profile
+2021-04-04 11:43:42 - [PASSED] Browser Initialized
+2021-04-04 11:43:43 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:43:43 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:43:47 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:43:47 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:43:47 - [PASSED] Create Account Button is clicked
+2021-04-04 11:43:48 - [PASSED] Instructor Button is clicked
+2021-04-04 11:43:48 - [PASSED] First Name TextBox is populated with 'FNamesssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascasklcjnasklcvnklasncklasnckla!#@#%#'
+2021-04-04 11:43:50 - [PASSED] Last Name TextBox is populated with 'LNamesssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascascascasc123123ascasssssssssascasklcjnasklcvnklasncklasnckla!#@#%#'
+2021-04-04 11:43:50 - [PASSED] Phone Number TextBox is populated with 'ASCASCASCASCASCASCASCASC!@#$!^#'
+2021-04-04 11:43:51 - [PASSED] Email TextBox is populated with 'cucumbertest12ASCASCASCASCASCASCASCmail.comASCASCASCASCASCASC'
+2021-04-04 11:43:51 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:43:52 - [PASSED] Confirm Password TextBox is populated with '******'
+2021-04-04 11:44:02 - [PASSED] Terms and Privacy Policy CheckBox value is set to true
+2021-04-04 11:44:02 - [PASSED] Page is scrolled down
+2021-04-04 11:44:02 - [PASSED] Continue is clicked
+2021-04-04 11:44:03 - [PASSED] Invalid Email is displayed
+2021-04-04 11:44:03 - [PASSED] Invalid Password is displayed
+2021-04-04 11:44:03 - [PASSED] Invalid Confirm Password is displayed
+2021-04-04 11:44:04 - chrome instance closed.
+2021-04-04 11:44:04 - [INFO] Initializing Chrome Profile
+2021-04-04 11:44:06 - [PASSED] Browser Initialized
+2021-04-04 11:44:06 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:44:07 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:44:10 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:44:11 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:44:11 - [PASSED] Create Account Button is clicked
+2021-04-04 11:44:11 - [PASSED] Instructor Button is clicked
+2021-04-04 11:44:12 - [PASSED] First Name TextBox is populated with ''
+2021-04-04 11:44:12 - [PASSED] Last Name TextBox is populated with ''
+2021-04-04 11:44:13 - [PASSED] Phone Number TextBox is populated with ''
+2021-04-04 11:44:13 - [PASSED] Email TextBox is populated with ''
+2021-04-04 11:44:13 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:44:14 - [PASSED] Confirm Password TextBox is populated with '******'
+2021-04-04 11:44:14 - [PASSED] Terms and Privacy Policy CheckBox value is set to false
+2021-04-04 11:44:14 - [PASSED] Page is scrolled down
+2021-04-04 11:44:14 - [PASSED] Continue is clicked
+2021-04-04 11:44:15 - [PASSED] First name is required. is displayed
+2021-04-04 11:44:15 - [PASSED] Last name is required. is displayed
+2021-04-04 11:44:15 - [PASSED] Email is required. is displayed
+2021-04-04 11:44:15 - [PASSED] Password is required. is displayed
+2021-04-04 11:44:15 - [PASSED] Re-type the new password is displayed
+2021-04-04 11:44:16 - [PASSED] Please accept terms and privacy policy. is displayed
+2021-04-04 11:44:17 - chrome instance closed.
+2021-04-04 11:44:17 - [INFO] Initializing Chrome Profile
+2021-04-04 11:44:19 - [PASSED] Browser Initialized
+2021-04-04 11:44:19 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:44:19 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:44:23 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:44:23 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:44:24 - [PASSED] Email TextBox is populated with 'sample101@email.com10005'
+2021-04-04 11:44:24 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:44:24 - [PASSED] Login Button is clicked
+2021-04-04 11:44:29 - [PASSED] Welcome to GoReact! is displayed
+2021-04-04 11:44:29 - [PASSED] User Navigation Button is clicked
+2021-04-04 11:44:30 - [PASSED] User Navigation - Log Out Link is clicked
+2021-04-04 11:44:32 - [PASSED] Login Form is displayed
+2021-04-04 11:44:32 - [PASSED] Email TextBox is displayed
+2021-04-04 11:44:32 - [PASSED] Password TextBox is displayed
+2021-04-04 11:44:33 - chrome instance closed.
+2021-04-04 11:44:33 - [INFO] Initializing Chrome Profile
+2021-04-04 11:44:36 - [PASSED] Browser Initialized
+2021-04-04 11:44:36 - Start automation test in chrome with Dimensions: (1296, 696)
+2021-04-04 11:44:36 - [INFO] Setting the Environment to Go React Test
+2021-04-04 11:44:39 - [PASSED] Open https://dev.goreact.com/
+2021-04-04 11:44:39 - [PASSED] goreact Login Header is displayed
+2021-04-04 11:44:40 - [PASSED] Email TextBox is populated with 'someoneNotFound@somekind.com'
+2021-04-04 11:44:40 - [PASSED] Password TextBox is populated with '******'
+2021-04-04 11:44:41 - [PASSED] Login Button is clicked
+2021-04-04 11:44:49 - [PASSED] Check username and password is displayed
+2021-04-04 11:44:50 - chrome instance closed.
