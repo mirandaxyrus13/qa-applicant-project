@@ -202,3 +202,139 @@
 2021-04-04 11:44:41 - [PASSED] Login Button is clicked
 2021-04-04 11:44:49 - [PASSED] Check username and password is displayed
 2021-04-04 11:44:50 - chrome instance closed.
+2021-05-04 16:10:59 - [INFO] Initializing Chrome Profile
+2021-05-04 16:11:00 - [PASSED] Browser Initialized
+2021-05-04 16:11:00 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 16:11:02 - [INFO] Setting the Environment to Go React Test
+2021-05-04 16:11:07 - [PASSED] Open https://dev.goreact.com/
+2021-05-04 16:11:08 - [PASSED] goreact Login Header is displayed
+2021-05-04 16:11:08 - [PASSED] Create Account Button is clicked
+2021-05-04 16:11:18 - [FAILED] Expected: Instructor Button is displayed
+2021-05-04 16:11:18 - [FAILED] Actual: Instructor Button is NOT displayed
+2021-05-04 22:55:14 - [INFO] Initializing Chrome Profile
+2021-05-04 22:55:16 - [PASSED] Browser Initialized
+2021-05-04 22:55:16 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 22:55:17 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 22:55:18 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 22:55:18 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 22:55:19 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 22:55:29 - [FAILED] Expected: Password TextBox is displayed
+2021-05-04 22:55:29 - [FAILED] Actual: Password TextBox is NOT displayed
+2021-05-04 22:56:45 - [INFO] Initializing Chrome Profile
+2021-05-04 22:56:46 - [PASSED] Browser Initialized
+2021-05-04 22:56:46 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 22:56:47 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 22:56:47 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 22:56:47 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 22:56:48 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 22:56:48 - [PASSED] Password TextBox is populated with '******'
+2021-05-04 22:56:48 - [PASSED] LOGIN Button is clicked
+2021-05-04 22:56:49 - [PASSED] Sauce Labs Backpack Label is displayed
+2021-05-04 22:56:49 - [PASSED] Add to Cart - Sauce Labs Backpack Button is clicked
+2021-05-04 22:56:59 - [FAILED] Expected: CHECKOUT Button is displayed
+2021-05-04 22:56:59 - [FAILED] Actual: CHECKOUT Button is NOT displayed
+2021-05-04 22:58:09 - [INFO] Initializing Chrome Profile
+2021-05-04 22:58:11 - [PASSED] Browser Initialized
+2021-05-04 22:58:11 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 22:58:11 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 22:58:12 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 22:58:12 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 22:58:12 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 22:58:13 - [PASSED] Password TextBox is populated with '******'
+2021-05-04 22:58:13 - [PASSED] LOGIN Button is clicked
+2021-05-04 22:58:13 - [PASSED] Sauce Labs Backpack Label is displayed
+2021-05-04 22:58:14 - [PASSED] Add to Cart - Sauce Labs Backpack Button is clicked
+2021-05-04 22:58:14 - [PASSED] Cart Link is clicked
+2021-05-04 22:58:14 - [PASSED] CHECKOUT Button is clicked
+2021-05-04 22:58:15 - [PASSED] First Name TextBox is populated with 'Test'
+2021-05-04 22:58:15 - [PASSED] Last Name TextBox is populated with 'Test'
+2021-05-04 22:58:25 - [FAILED] Expected: Zip/Postal Code TextBox is displayed
+2021-05-04 22:58:25 - [FAILED] Actual: Zip/Postal Code TextBox is NOT displayed
+2021-05-04 22:59:39 - [INFO] Initializing Chrome Profile
+2021-05-04 22:59:41 - [PASSED] Browser Initialized
+2021-05-04 22:59:41 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 22:59:42 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 22:59:42 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 22:59:42 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 22:59:42 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 22:59:43 - [PASSED] Password TextBox is populated with '******'
+2021-05-04 22:59:43 - [PASSED] LOGIN Button is clicked
+2021-05-04 22:59:43 - [PASSED] Sauce Labs Backpack Label is displayed
+2021-05-04 22:59:44 - [PASSED] Add to Cart - Sauce Labs Backpack Button is clicked
+2021-05-04 22:59:44 - [PASSED] Cart Link is clicked
+2021-05-04 22:59:45 - [PASSED] CHECKOUT Button is clicked
+2021-05-04 22:59:45 - [PASSED] First Name TextBox is populated with 'Test'
+2021-05-04 22:59:45 - [PASSED] Last Name TextBox is populated with 'Test'
+2021-05-04 22:59:46 - [PASSED] Zip/Postal Code TextBox is populated with '1234'
+2021-05-04 22:59:56 - [FAILED] Expected: Overview Title Element is displayed
+2021-05-04 22:59:56 - [FAILED] Actual: Overview Title is NOT displayed
+2021-05-04 23:02:17 - [INFO] Initializing Chrome Profile
+2021-05-04 23:02:38 - [INFO] Initializing Chrome Profile
+2021-05-04 23:02:39 - [PASSED] Browser Initialized
+2021-05-04 23:02:39 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 23:02:40 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 23:02:40 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 23:02:40 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 23:02:41 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 23:02:41 - [PASSED] Password TextBox is populated with '******'
+2021-05-04 23:02:42 - [PASSED] LOGIN Button is clicked
+2021-05-04 23:02:42 - [PASSED] Sauce Labs Backpack Label is displayed
+2021-05-04 23:02:42 - [PASSED] Add to Cart - Sauce Labs Backpack Button is clicked
+2021-05-04 23:02:43 - [PASSED] Cart Link is clicked
+2021-05-04 23:02:43 - [PASSED] CHECKOUT Button is clicked
+2021-05-04 23:02:44 - [PASSED] First Name TextBox is populated with 'Test'
+2021-05-04 23:02:44 - [PASSED] Last Name TextBox is populated with 'Test'
+2021-05-04 23:02:44 - [PASSED] Zip/Postal Code TextBox is populated with '1234'
+2021-05-04 23:02:54 - [FAILED] Expected: Overview Title Element is displayed
+2021-05-04 23:02:54 - [FAILED] Actual: Overview Title is NOT displayed
+2021-05-04 23:03:33 - [INFO] Initializing Chrome Profile
+2021-05-04 23:03:35 - [PASSED] Browser Initialized
+2021-05-04 23:03:35 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 23:03:36 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 23:03:36 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 23:03:36 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 23:03:36 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 23:03:37 - [PASSED] Password TextBox is populated with '******'
+2021-05-04 23:03:37 - [PASSED] LOGIN Button is clicked
+2021-05-04 23:03:38 - [PASSED] Sauce Labs Backpack Label is displayed
+2021-05-04 23:03:38 - [PASSED] Add to Cart - Sauce Labs Backpack Button is clicked
+2021-05-04 23:03:38 - [PASSED] Cart Link is clicked
+2021-05-04 23:03:39 - [PASSED] CHECKOUT Button is clicked
+2021-05-04 23:03:39 - [PASSED] First Name TextBox is populated with 'Test'
+2021-05-04 23:03:39 - [PASSED] Last Name TextBox is populated with 'Test'
+2021-05-04 23:03:40 - [PASSED] Zip/Postal Code TextBox is populated with '1234'
+2021-05-04 23:03:40 - [PASSED] Continue Button is clicked
+2021-05-04 23:03:40 - [PASSED] Overview Title is displayed
+2021-05-04 23:03:41 - chrome instance closed.
+2021-05-04 23:15:24 - [INFO] Initializing Chrome Profile
+2021-05-04 23:15:26 - [PASSED] Browser Initialized
+2021-05-04 23:15:26 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 23:15:27 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 23:15:27 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 23:15:27 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 23:15:27 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 23:15:28 - [PASSED] Password TextBox is populated with '******'
+2021-05-04 23:15:28 - [PASSED] LOGIN Button is clicked
+2021-05-04 23:15:29 - [PASSED] Sauce Labs Backpack Label is displayed
+2021-05-04 23:15:29 - [PASSED] Add to Cart - Sauce Labs Backpack Button is clicked
+2021-05-04 23:15:29 - [PASSED] Cart Link is clicked
+2021-05-04 23:15:30 - [PASSED] CHECKOUT Button is clicked
+2021-05-04 23:17:08 - [INFO] Initializing Chrome Profile
+2021-05-04 23:17:09 - [PASSED] Browser Initialized
+2021-05-04 23:17:09 - Start automation test in chrome with Dimensions: (1552, 840)
+2021-05-04 23:17:10 - [INFO] Setting the Environment to SauceDemo Test
+2021-05-04 23:17:10 - [PASSED] Open https://www.saucedemo.com/
+2021-05-04 23:17:11 - [PASSED] Sauce Demo Logo is displayed
+2021-05-04 23:17:11 - [PASSED] Username TextBox is populated with 'standard_user'
+2021-05-04 23:17:11 - [PASSED] Password TextBox is populated with '******'
+2021-05-04 23:17:12 - [PASSED] LOGIN Button is clicked
+2021-05-04 23:17:12 - [PASSED] Sauce Labs Backpack Label is displayed
+2021-05-04 23:17:13 - [PASSED] Add to Cart - Sauce Labs Backpack Button is clicked
+2021-05-04 23:17:13 - [PASSED] Cart Link is clicked
+2021-05-04 23:17:13 - [PASSED] CHECKOUT Button is clicked
+2021-05-04 23:17:14 - [PASSED] First Name TextBox is populated with 'Test'
+2021-05-04 23:17:14 - [PASSED] Last Name TextBox is populated with 'Test'
+2021-05-04 23:17:14 - [PASSED] Zip/Postal Code TextBox is populated with '51234'
+2021-05-04 23:17:15 - [PASSED] Continue Button is clicked
+2021-05-04 23:17:15 - [PASSED] Overview Title is displayed
+2021-05-04 23:17:16 - chrome instance closed.

@@ -419,6 +419,11 @@ public class Browser {
 			url = properties.getProperty("goreact_test").toString();
 			Log.testStep("INFO", "Setting the Environment to Go React Test",
 					"Setting the Environment to Go React Test");
+		} else if (environment.equalsIgnoreCase("saucedemo_test")) {
+			DataUtility.setSheetName(environment);
+			url = properties.getProperty("saucedemo_test").toString();
+			Log.testStep("INFO", "Setting the Environment to SauceDemo Test",
+					"Setting the Environment to SauceDemo Test");
 		}
 
 		navigateUrl(url);

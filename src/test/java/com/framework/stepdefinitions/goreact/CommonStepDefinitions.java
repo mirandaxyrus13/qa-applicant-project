@@ -16,6 +16,7 @@ public class CommonStepDefinitions{
 		Browser.openBrowser();
 		Browser.setEnvironmentAndNavigateToURL("goreact_test");
 		LoginPage.LoginSection.verifyLoginHeader();
+		
 	}
 	
 	@When("^I create an account as an \"(.*)\"$")
